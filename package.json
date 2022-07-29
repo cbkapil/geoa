@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     
-    "start":"nodemon app",
-    "web": "expo start --web"
+    "start":"nodemon app"
+    
   },
   "author": "",
   "license": "ISC",
