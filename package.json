@@ -4,9 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    
-    "start":"nodemon app"
-    
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
@@ -16,12 +14,9 @@
     "mongodb": "^4.8.0",
     "mongoose": "^6.4.6",
     "nodemon": "^2.0.19"
-  },"engines": {
+  },
+  "engines": {
     "node": "16.15.1",
     "npm": "8.12.1"
-  }
-,
-  "devDependencies": {
-    "nodemon" : "2.0.16"
   }
 }
